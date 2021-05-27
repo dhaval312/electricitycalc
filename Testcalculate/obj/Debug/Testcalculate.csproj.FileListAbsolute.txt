@@ -1,0 +1,16 @@
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Testcalculate.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Testcalculate.pdb
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\826793\source\repos\lab1\Testcalculate\obj\Debug\Testcalculate.csprojAssemblyReference.cache
+C:\Users\826793\source\repos\lab1\Testcalculate\obj\Debug\Testcalculate.csproj.CopyComplete
+C:\Users\826793\source\repos\lab1\Testcalculate\obj\Debug\Testcalculate.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\obj\Debug\Testcalculate.pdb
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\CustomerData.dll
+C:\Users\826793\source\repos\lab1\Testcalculate\bin\Debug\CustomerData.pdb
+C:\Users\826793\source\repos\lab1\Testcalculate\obj\Debug\Testcalculate.csproj.CoreCompileInputs.cache

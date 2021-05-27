@@ -1,0 +1,6 @@
+C:\Users\826793\source\repos\lab1\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\826793\source\repos\lab1\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\826793\source\repos\lab1\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\826793\source\repos\lab1\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\826793\source\repos\lab1\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\826793\source\repos\lab1\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
